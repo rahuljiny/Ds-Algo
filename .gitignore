@@ -1,0 +1,14 @@
+/bin/
+/.git/
+.classpath
+.project
+.gitignore*
+.settings
+/.settings/
+Ds-Algo.*
+HELP*
+mvnw*
+.idea
+.DS_Store*
+/target/
+.gitignore

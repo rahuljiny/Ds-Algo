@@ -3,8 +3,8 @@ package com.rahul.hackerRank;
 public class Lexicography {
 	public static void main(String[] args) {
 		String str="ab";
-		String out="imllmmcslslkyoegyoam";
-		System.out.println(biggerIsGreater(str));
+		String out="dsfnasdmmdca";
+		System.out.println(biggerIsGreater(out));
 	}
 
 	static String biggerIsGreater(String w) {

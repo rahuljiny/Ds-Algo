@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rahul</groupId>
-	<artifactId>Ds-Algo</artifactId>
+	<artifactId>programming</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Ds-Algo</name>
+	<name>programming</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
